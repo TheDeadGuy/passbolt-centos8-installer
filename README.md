@@ -1,0 +1,1 @@
+# passbolt-centos8-installer
