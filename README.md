@@ -1,3 +1,5 @@
+I don't know if this repo is still relevant or even being used. I am archiving it as the master repo from passbolt has been edited and improved to incorporate this repo's tasks. Repo is being archived
+
 # passbolt-centos8-installer
 
 Run the following commands found at https://help.passbolt.com/hosting/install/ce/centos-7.html
